@@ -67,9 +67,6 @@
 ###
 
 <div align="left">
-  <a href="[venitescoder@gmail..com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrjDftMSpKFNtdzCjlDqBFwFHZpmDkwmHfJfnfnLXBZwtBxRPgWTZnlCLSsDJpJxmlxLsq)" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="54" height="34" alt="gmail logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/erick-henrique-venites-28a768251/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="54" height="34" alt="linkedin logo"  />
   </a>
