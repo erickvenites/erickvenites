@@ -77,8 +77,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/erickvenites/erickvenites/output/snake.svg" alt="Snake animation" />
-
-###
