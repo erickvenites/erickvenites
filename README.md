@@ -1,53 +1,53 @@
 # Bem-vindo ao Meu Perfil
 
-Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos focados principalmente em **desenvolvimento backend**, onde atuo em automação de processos, otimização de desempenho e criação de APIs escaláveis. Além disso, tenho experiência em **frontend** e **fullstack**, sempre adotando práticas modernas de desenvolvimento.
+Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos focados principalmente em **desenvolvimento backend**, com ênfase em automação de processos, otimização de desempenho e criação de APIs escaláveis. Além disso, possuo experiência em **frontend** e **desenvolvimento fullstack**, sempre aplicando práticas modernas e eficientes.
 
 ---
 
 ## 🚀 Tecnologias que utilizo
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="30" alt="selenium logo" />
+  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="40" alt="selenium logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="30" alt="sequelize logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="30" alt="prisma logo" />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="30" alt="webpack logo" />
+  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo" />
 </div>
 
 ---
@@ -55,16 +55,16 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos focados princ
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erickvenites&show_icons=true&theme=radical" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=erickvenites&show_icons=true&theme=radical&hide_border=true" alt="Github Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickvenites&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickvenites&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
 ## 🧑‍💻 Sobre mim
 
-Sou um **Desenvolvedor Fullstack** especializado em backend, com experiência na criação de soluções robustas, automação de processos e otimização de desempenho. Atuo com as seguintes tecnologias:
+Sou um **Desenvolvedor Fullstack** com especialização em **backend**, criando soluções eficientes, automação de processos e otimização de desempenho em projetos. Algumas das tecnologias com as quais trabalho incluem:
 
 - **Linguagens**: TypeScript, Python, Node.js
 - **Frameworks**: Express, Flask
@@ -72,11 +72,13 @@ Sou um **Desenvolvedor Fullstack** especializado em backend, com experiência na
 - **Containerização**: Docker e ambientes containerizados
 - **Frontend**: React, Sass, Tailwind CSS, Styled Components
 
-### Atualmente, trabalho como desenvolvedor backend na **Marinha do Brasil**:
-- **Automação de tarefas e APIs**: Desenvolvi uma API em Flask que gerencia o ciclo completo de envio de DARF, otimizando o processo de declaração fiscal.
-- **Web Scraping**: Criei uma rotina de scraping para obter dados de licitações do contratos.gov, centralizando informações de licitações e facilitando o acesso automatizado.
+### Experiência Atual
+Atualmente, sou desenvolvedor backend na **Marinha do Brasil**, onde tenho trabalhado em:
 
-Sou apaixonado por resolver problemas complexos, focado em garantir a qualidade do código e trabalhar em equipe. Atualmente, estou cursando **Ciências da Computação** e busco sempre evoluir tecnicamente, colaborando com equipes para entregar soluções que impactem positivamente os usuários finais.
+- **Automação de tarefas e APIs**: Desenvolvi uma API em Flask que gerencia o ciclo completo de envio de DARF, otimizando o processo de declaração fiscal.
+- **Web Scraping**: Criei uma rotina de scraping para obter e centralizar informações de licitações da plataforma contratos.gov, facilitando o acesso automatizado a esses dados.
+
+Sou apaixonado por resolver problemas complexos e garantir a entrega de código de qualidade, colaborando com equipes para oferecer soluções impactantes aos usuários. Atualmente, estou cursando **Ciências da Computação** e sempre busco evoluir tecnicamente.
 
 ---
 
