@@ -1,6 +1,6 @@
 # Bem-vindo ao Meu Perfil
 
-Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos focados em desenvolvimento backend, utilizando tecnologias modernas e eficientes para criar soluções escaláveis. Você tambem encontra projetos frontend e fullStack
+Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos focados principalmente em **desenvolvimento backend**, onde atuo em automação de processos, otimização de desempenho e criação de APIs escaláveis. Além disso, tenho experiência em **frontend** e **fullstack**, sempre adotando práticas modernas de desenvolvimento.
 
 ---
 
@@ -64,11 +64,19 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos focados em de
 
 ## 🧑‍💻 Sobre mim
 
-Sou desenvolvedor full-stack com foco em criar soluções robustas e eficientes. Estou sempre em busca de novas tecnologias e formas de otimizar os processos de desenvolvimento.
+Sou um **Desenvolvedor Fullstack** especializado em backend, com experiência na criação de soluções robustas, automação de processos e otimização de desempenho. Atuo com as seguintes tecnologias:
 
-- 🔭 Atualmente trabalhando em: **projetos backend com Python, fazendo APIs com flask e automação de tarefas**
-- 🌱 Experiência: **TypeScript, Python e Node.js**
-- 💬 Pergunte-me sobre: **Desenvolvimento backend, otimização de performance, ou integrações complexas**
+- **Linguagens**: TypeScript, Python, Node.js
+- **Frameworks**: Express, Flask
+- **Bancos de Dados**: PostgreSQL, MongoDB, SQLAlchemy, Prisma
+- **Containerização**: Docker e ambientes containerizados
+- **Frontend**: React, Sass, Tailwind CSS, Styled Components
+
+### Atualmente, trabalho como desenvolvedor backend na **Marinha do Brasil**:
+- **Automação de tarefas e APIs**: Desenvolvi uma API em Flask que gerencia o ciclo completo de envio de DARF, otimizando o processo de declaração fiscal.
+- **Web Scraping**: Criei uma rotina de scraping para obter dados de licitações do contratos.gov, centralizando informações de licitações e facilitando o acesso automatizado.
+
+Sou apaixonado por resolver problemas complexos, focado em garantir a qualidade do código e trabalhar em equipe. Atualmente, estou cursando **Ciências da Computação** e busco sempre evoluir tecnicamente, colaborando com equipes para entregar soluções que impactem positivamente os usuários finais.
 
 ---
 
