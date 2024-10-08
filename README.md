@@ -55,9 +55,9 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos focados em de
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=erickvenites&show_icons=true&theme=radical" alt="Github Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickvenites&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
