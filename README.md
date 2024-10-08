@@ -73,10 +73,13 @@ Sou um **Desenvolvedor Fullstack** com especialização em **backend**, criando 
 - **Frontend**: React, Sass, Tailwind CSS, Styled Components
 
 ### Experiência Atual
-Atualmente, sou desenvolvedor backend na **Marinha do Brasil**, onde tenho trabalhado em:
+Atualmente, sou desenvolvedor backend na **Marinha do Brasil**, onde atuo com **Web Scraping**, **Automação de Tarefas** e **APIs** para otimizar processos e centralizar informações estratégicas. Meu foco é implementar soluções que automatizem fluxos de trabalho e reduzam tarefas repetitivas, trazendo mais eficiência e produtividade aos processos internos.
 
-- **Automação de tarefas e APIs**: Desenvolvi uma API em Flask que gerencia o ciclo completo de envio de DARF, otimizando o processo de declaração fiscal.
-- **Web Scraping**: Criei uma rotina de scraping para obter e centralizar informações de licitações da plataforma contratos.gov, facilitando o acesso automatizado a esses dados.
+Utilizo **Python** e **Flask** para desenvolver APIs robustas e escaláveis, integrando ferramentas de automação e coleta de dados. Além disso, crio rotinas de **web scraping** que extraem dados de diversas fontes externas, tornando as informações acessíveis de forma automatizada.
+
+Alguns dos meus feitos incluem:
+- **Automação de tarefas e APIs**: Desenvolvi uma API em Flask que gerencia o ciclo completo de envio de DARF, otimizando o processo de declaração fiscal e tornando-o mais ágil e confiável.
+- **Web Scraping**: Criei uma rotina de scraping que coleta e centraliza informações de licitações da plataforma contratos.gov, facilitando o acesso automatizado e permitindo um monitoramento eficiente desses dados.
 
 Sou apaixonado por resolver problemas complexos e garantir a entrega de código de qualidade, colaborando com equipes para oferecer soluções impactantes aos usuários. Atualmente, estou cursando **Ciências da Computação** e sempre busco evoluir tecnicamente.
 
