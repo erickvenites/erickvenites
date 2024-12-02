@@ -64,13 +64,8 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos focados princ
 
 ## 🧑‍💻 Sobre mim
 
-Sou um **Desenvolvedor Fullstack** com especialização em **backend**, criando soluções eficientes, automação de processos e otimização de desempenho em projetos. Algumas das tecnologias com as quais trabalho incluem:
-
-- **Linguagens**: TypeScript, Python, Node.js
-- **Frameworks**: Express, Flask
-- **Bancos de Dados**: PostgreSQL, MongoDB, SQLAlchemy, Prisma
-- **Containerização**: Docker e ambientes containerizados
-- **Frontend**: React, Sass, Tailwind CSS, Styled Components
+Sou um desenvolvedor full stack apaixonado por criar soluções inovadoras. Possuo sólida experiência em desenvolvimento backend, onde me destaco por construir sistemas robustos e escaláveis. Estou sempre me desafiando a aprender novas tecnologias e a encontrar soluções eficientes para problemas complexos.
+Acredito que a paixão pela tecnologia e a busca constante por conhecimento são fundamentais para o sucesso em nossa área.
 
 ### Experiência Atual
 Atualmente, sou desenvolvedor backend na **Marinha do Brasil**, onde atuo com **Web Scraping**, **Automação de Tarefas** e **APIs** para otimizar processos e centralizar informações estratégicas. Meu foco é implementar soluções que automatizem fluxos de trabalho e reduzam tarefas repetitivas, trazendo mais eficiência e produtividade aos processos internos.
